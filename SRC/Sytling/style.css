@@ -686,6 +686,10 @@ img {
   .nav {
     padding: 1rem;
   }
+
+  .perfil__img {
+    height: auto;
+  }
 }
 
 /*MEDIUM SCREENS*/
