@@ -688,6 +688,7 @@ img {
   }
 
   .perfil__img {
+    transform: scale(1);
     height: auto;
   }
 }
@@ -708,10 +709,6 @@ img {
     grid-template-columns: 380px;
     justify-content: center;
   }
-
-  .perfil__img {
-    height: auto;
-  }
 }
 
 @media screen and (min-width: 768px) {
@@ -721,10 +718,6 @@ img {
   }
   .perfil {
     height: 100%;
-  }
-
-  .perfil__img {
-    height: auto;
   }
 
   .projects__container,
