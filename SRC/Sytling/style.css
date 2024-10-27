@@ -688,7 +688,7 @@ img {
   }
 
   .perfil__img {
-    transform: scale(1);
+    transform: scale(0.8);
     height: auto;
   }
 }
